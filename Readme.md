@@ -1,9 +1,19 @@
 # Frontends Projects - Todo App
+___
 
----
-Project: Todo App\
-Stack: HTML & CSS % JS\
-Level: Intermediate\
-Follow: https://frontendsprojects.com/
+## Обзор
+Адаптивная веб-страница
 
----
+Функционал:
+ - Добавление карточек дел
+ - Удаление карточек дел
+___
+
+## Использованные технологии
+* HTML
+* CSS ( _flex_ и _grid_, медиазапросы)
+* JS ( Информация хранится в localStorage) 
+___
+
+* [Follow](https://frontendsprojects.com/)
+* [Ссылка на страницу проекта github](https://volkova-fe.github.io/Todo-App/)
