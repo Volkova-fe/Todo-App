@@ -1,0 +1,11 @@
+.todo__text {
+	flex-grow: 1;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-size: 18px;
+}
+
+.done .todo__text {
+	text-decoration: line-through;
+	user-select: none;
+}

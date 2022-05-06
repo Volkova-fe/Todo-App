@@ -1,0 +1,11 @@
+.icon {
+	font-size: 3rem;
+	grid-column: 1/2;
+	grid-row: 1/2;
+}
+
+@media screen and (max-width: 500px) {
+	.icon {
+		font-size: 2rem;
+	}
+}

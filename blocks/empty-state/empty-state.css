@@ -1,0 +1,25 @@
+.empty-state {
+	display: grid;
+	grid-template-columns: 1fr;
+	align-items: center;
+	justify-items: start;
+	width: 95%;
+	max-width: 700px;
+}
+
+.empty-state__title,
+.empty-state__description {
+	font-size: 20px;
+	text-align: center;
+	padding: 1rem;
+	max-width: 25rem;
+	margin: 0 auto;
+}
+
+@media screen and (max-width: 500px) {
+	.empty-state__title,
+	.empty-state__description {
+		font-size: 16px;
+		text-align: center;
+	}
+}

@@ -1,0 +1,6 @@
+.todo__delete {
+	border: none;
+	background-color: transparent;
+	outline: none;
+	cursor: pointer;
+}

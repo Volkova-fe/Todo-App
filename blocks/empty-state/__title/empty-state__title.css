@@ -1,0 +1,13 @@
+.empty-state__title {
+	text-align: center;
+	font-size: 42px;
+	grid-column: 1/2;
+	grid-row: 1/2;
+}
+
+@media screen and (max-width: 500px) {
+	.empty-state__title {
+		font-size: 26px;
+		text-align: center;
+	}
+}

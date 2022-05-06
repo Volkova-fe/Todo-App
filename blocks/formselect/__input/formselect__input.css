@@ -1,0 +1,11 @@
+.formselect__input {
+	width: 100%;
+	padding: 10px;
+	border-radius: 4px;
+	border: 2px solid #333;
+}
+
+.formselect__input:focus {
+	outline: none;
+	background-color: #d1f3d8;
+}

@@ -1,0 +1,21 @@
+@import url("../blocks/page/page.css");
+
+@import url("../blocks/container/container.css");
+
+@import url("../blocks/todo/__list/todo__list.css");
+@import url("../blocks/todo/__item/todo__item.css");
+@import url("../blocks/todo/__text/todo__text.css");
+@import url("../blocks/todo/__checkbox/todo__checkbox.css");
+@import url("../blocks/todo/__label/todo__label.css");
+@import url("../blocks/todo/__delete/todo__delete.css");
+@import url("../blocks/todo/__delete-pic/todo__delete-pic.css");
+
+@import url("../blocks/formselect/formselect.css");
+@import url("../blocks/formselect/__input/formselect__input.css");
+
+@import url("../blocks/empty-state/empty-state.css");
+@import url("../blocks/empty-state/__title/empty-state__title.css");
+
+@import url("../blocks/checklist-icon/checklist-icon.css");
+
+@import url("../blocks/icon/icon.css");
