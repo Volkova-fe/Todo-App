@@ -16,4 +16,4 @@ ___
 ___
 
 * [Follow](https://frontendsprojects.com/)
-* [Ссылка на страницу проекта github](https://volkova-fe.github.io/Todo-App/)
+* [Демоверсия страницы](https://volkova-fe.github.io/Todo-App/)
